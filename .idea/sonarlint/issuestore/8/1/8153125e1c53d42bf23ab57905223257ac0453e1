@@ -1,0 +1,8 @@
+
+Xsquid:S1141."5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8îàç¦ê-
+qsquid:S1450"SRemove the "view" field and declare it as a local variable in the relevant methods.(ØÊ»¶8îàç¦ê-
+Ksquid:S16046"(Make this anonymous inner class a lambda(Ô»¦­ýÿÿÿÿ8½¢ñºê-
+]squid:UselessImportCheck"3Remove this unused import 'android.content.Intent'.(³ð‹G8Äêñºê-
+V
+squid:S1069"9Replace this use of System.out or System.err by a logger.(³ „æ8Äêñºê-
+usquid:S1450"WRemove the "callData" field and declare it as a local variable in the relevant methods.(ï‹ó­8îàç¦ê-

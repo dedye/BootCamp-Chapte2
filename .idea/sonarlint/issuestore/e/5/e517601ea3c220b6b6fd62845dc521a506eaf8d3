@@ -1,0 +1,5 @@
+
+Csquid:S4423",Change this code to use a stronger protocol.(öÅøæ
+©%squid:RedundantThrowsDeclarationCheck'"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(Åƒ¬«
+®%squid:RedundantThrowsDeclarationCheck,"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(ð˜ã‚ýÿÿÿÿ
+esquid:S4201;"IRemove this unnecessary null check; "instanceof" returns false for nulls.(£çÃÐøÿÿÿÿ

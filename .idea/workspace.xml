@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AvailableLibraryUpdateStorage">
+    <library-updates>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>appcompat-v7</name>
+        <version>28.0.0</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>design</name>
+        <version>28.0.0</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support.constraint</group-id>
+        <name>constraint-layout</name>
+        <version>2.0.0-beta3</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>junit</group-id>
+        <name>junit</name>
+        <version>4.13-rc-1</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support.test</group-id>
+        <name>runner</name>
+        <version>1.0.2</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support.test.espresso</group-id>
+        <name>espresso-core</name>
+        <version>3.0.2</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+    </library-updates>
+    <last-search-timestamp>1572937456225</last-search-timestamp>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="28d06da9-fea1-4dd8-9578-1048d0d772dc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/Home.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="49" column="73" lean-forward="true" selection-start-line="49" selection-start-column="73" selection-end-line="49" selection-end-column="73" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cec5dac4fc46a4254befbf75f3b96405/jars/classes.jar!/android/support/v7/widget/LinearLayoutManager.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1c095eef2b113311765a59a30351a0cf/jars/classes.jar!/android/support/v4/app/Fragment.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1845">
+              <caret line="124" column="57" selection-start-line="124" selection-start-column="57" selection-end-line="124" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/3564ebef90ac75e61ed65ab9af0f422ce92d4afa/retrofit-2.1.0-sources.jar!/retrofit2/ExecutorCallAdapterFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="69" selection-start-line="69" selection-end-line="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-28/android/os/Handler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1320">
+              <caret line="107" selection-start-line="107" selection-end-line="107" />
+              <folding>
+                <element signature="e#34939#34940#0" expanded="true" />
+                <element signature="e#34977#34978#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-28/android/os/Looper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2595">
+              <caret line="195" selection-start-line="195" selection-end-line="195" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/HomeAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cec5dac4fc46a4254befbf75f3b96405/jars/classes.jar!/android/support/v7/widget/RecyclerView.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23385">
+              <caret line="1560" column="33" selection-start-line="1560" selection-start-column="33" selection-end-line="1560" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/all_list_data.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>context</find>
+      <find>DashboardBottomNavigation</find>
+      <find>data</find>
+      <find>labelVisibilityMode</find>
+      <find>JsonElement</find>
+      <find>AnalyticsApps</find>
+      <find>R</find>
+      <find>TLSSocketFactory</find>
+      <find>SSLSocketFactory</find>
+      <find>cach</find>
+      <find>Button_main_submit</find>
+      <find>support:design</find>
+      <find>dest</find>
+      <find>adap</find>
+      <find>adapter</find>
+      <find>MyViewHolder</find>
+    </findStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/TabLayout.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/SectionsPagerAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/PlaceholderFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_tablayout.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/ProfileAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/Profile.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_dashboard.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/Dashboard.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/AnalyticsApps.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/TLSSocketFactory.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/Promo.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/DashboardBottomNavigation.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/bottomnavigation_menu.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/ListApiInterface.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/HomeModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/HomeDetilModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/ServiceGenerator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/testing_layout.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_testing.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/bottomnavigation_dashboard_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/DataPribadi.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/xml/network_security_config.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/all_list_data.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/HomeAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/Home.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="14" />
+    <option name="y" value="23" />
+    <option name="width" value="1418" />
+    <option name="height" value="802" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TEST1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="TEST1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="TEST1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="mobilebootcamp" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="device.picker.selection" value="192.168.56.110:5555" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.492635" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Properties" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dokuwallet.mobilebootcamp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/menu" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28d06da9-fea1-4dd8-9578-1048d0d772dc" name="Default Changelist" comment="" />
+      <created>1572925358426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572925358426</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="14" y="23" width="1418" height="802" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.29069766" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Resources Explorer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="0" />
+      <window_info anchor="bottom" id="SonarLint" order="1" />
+      <window_info anchor="bottom" id="Logcat" order="2" sideWeight="0.49919224" weight="0.5356577" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Android Profiler" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.3296355" />
+      <window_info anchor="bottom" id="Terminal" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50080776" side_tool="true" weight="0.3296355" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Build" order="9" weight="0.32676056" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.3296355" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Android WiFi ADB" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Preview" order="6" weight="0.32875606" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.2907916" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Resources Explorer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="0" weight="0.3296355" />
+      <window_info anchor="bottom" id="Run" order="1" />
+      <window_info anchor="bottom" id="SonarLint" order="2" />
+      <window_info active="true" anchor="bottom" id="Logcat" order="3" sideWeight="0.49919224" visible="true" weight="0.5356577" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Android Profiler" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.3296355" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50080776" side_tool="true" weight="0.3296355" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.3280507" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Android WiFi ADB" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Preview" order="6" weight="0.32875606" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/SectionsPagerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/TabLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/Profile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/Dashboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/HomeModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#887#888#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+            <element signature="e#975#976#0" expanded="true" />
+            <element signature="e#1015#1016#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-28/android/net/NetworkInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/TLSSocketFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/AnalyticsApps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/dokuwallet/mobilebootcamp/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_testing.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding>
+            <element signature="e#576#600#0" expanded="true" />
+            <element signature="e#1019#1043#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="55" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/ServiceGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="197" column="35" selection-start-line="197" selection-start-column="35" selection-end-line="197" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-28/android/content/ContextWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="114" column="19" selection-start-line="114" selection-start-column="19" selection-end-line="114" selection-end-column="19" />
+          <folding>
+            <element signature="e#3365#3366#0" expanded="true" />
+            <element signature="e#3417#3418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/ListApiInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/state_bnve.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_dashboard.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="56" column="46" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/icon_profil.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/bottomnavigation_menu.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-28/android/net/Uri.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-309">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/Home2.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home2.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/Promo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="55" lean-forward="true" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_promo.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/DataPribadi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="54" lean-forward="true" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_profile.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/HomeDetilModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/bottomnavigation_dashboard_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/DashboardBottomNavigation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="18" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="17" column="75" selection-start-line="17" selection-start-column="75" selection-end-line="17" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/network_security_config.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cec5dac4fc46a4254befbf75f3b96405/jars/classes.jar!/android/support/v7/widget/LinearLayoutManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1c095eef2b113311765a59a30351a0cf/jars/classes.jar!/android/support/v4/app/Fragment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="124" column="57" selection-start-line="124" selection-start-column="57" selection-end-line="124" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/3564ebef90ac75e61ed65ab9af0f422ce92d4afa/retrofit-2.1.0-sources.jar!/retrofit2/ExecutorCallAdapterFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-28/android/os/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+          <folding>
+            <element signature="e#34939#34940#0" expanded="true" />
+            <element signature="e#34977#34978#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-28/android/os/Looper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2595">
+          <caret line="195" selection-start-line="195" selection-end-line="195" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/HomeAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cec5dac4fc46a4254befbf75f3b96405/jars/classes.jar!/android/support/v7/widget/RecyclerView.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23385">
+          <caret line="1560" column="33" selection-start-line="1560" selection-start-column="33" selection-end-line="1560" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/all_list_data.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dokuwallet/mobilebootcamp/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="73" lean-forward="true" selection-start-line="49" selection-start-column="73" selection-end-line="49" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

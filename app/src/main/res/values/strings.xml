@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MobileBootCamp</string>
+    <string name="action_settings">Settings</string>
+    <string name="username_placeholder">Masukkan Username</string>
+    <string name="password_placeholder">Masukkan Password</string>
+    <string name="tab_text_1">TAB 1</string>
+    <string name="tab_text_2">TAB 2</string>
+    <string name="home">Home</string>
+    <string name="promo">Promo</string>
+    <string name="profil">Profil</string>
+    <string name="button_submit1">SUBMIT1</string>
+    <string name="button_submit2">SUBMIT2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

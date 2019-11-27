@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbarlayout_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <ScrollView
+        android:id="@+id/scrollview_main"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:fillViewport="true"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/appbarlayout_main"
+        app:layout_constraintBottom_toTopOf="@+id/Button_main_submit">
+
+        <android.support.constraint.ConstraintLayout
+            android:id="@+id/constraintlayout_main_login"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textview_main_titleusername"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintTop_toTopOf="parent"
+                android:layout_marginTop="40dp"
+                android:layout_marginStart="40dp"
+                app:layout_constraintStart_toStartOf="parent"
+                android:text="Username"/>
+
+            <TextView
+                android:id="@+id/textview_main_titikusername"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintTop_toTopOf="@+id/textview_main_titleusername"
+                android:layout_marginStart="40dp"
+                app:layout_constraintLeft_toRightOf="@+id/textview_main_titleusername"
+                android:text=":"/>
+
+            <EditText
+                android:id="@+id/edittext_main_username"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:inputType="text"
+                android:layout_marginEnd="40dp"
+                android:layout_marginBottom="8dp"
+                android:hint="@string/username_placeholder"
+                app:layout_constraintBottom_toBottomOf="@+id/textview_main_titikusername"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintLeft_toRightOf="@+id/textview_main_titikusername"
+                app:layout_constraintTop_toTopOf="@+id/textview_main_titikusername" />
+
+
+            <TextView
+                android:id="@+id/textview_main_titlepassword"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintTop_toBottomOf="@+id/textview_main_titleusername"
+                android:layout_marginTop="40dp"
+                android:layout_marginStart="40dp"
+                app:layout_constraintStart_toStartOf="parent"
+                android:text="Passowrd"/>
+
+            <TextView
+                android:id="@+id/textview_main_titikpassword"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintTop_toTopOf="@+id/textview_main_titlepassword"
+                android:layout_marginStart="40dp"
+                app:layout_constraintLeft_toRightOf="@+id/textview_main_titlepassword"
+                android:text=":"/>
+
+            <EditText
+                android:id="@+id/edittext_main_password"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword"
+                android:layout_marginEnd="40dp"
+                android:layout_marginBottom="8dp"
+                android:hint="@string/password_placeholder"
+                app:layout_constraintBottom_toBottomOf="@+id/textview_main_titikpassword"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintLeft_toRightOf="@+id/textview_main_titikpassword"
+                app:layout_constraintTop_toTopOf="@+id/textview_main_titikpassword" />
+
+        </android.support.constraint.ConstraintLayout>
+    </ScrollView>
+
+    <ProgressBar
+        android:id="@+id/progressBar_main"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:visibility="gone"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:minWidth="50dp"
+        android:minHeight="50dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/appbarlayout_main"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/Button_main_submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:background="@color/colorAccent"
+        android:textSize="20sp"
+        android:text="LOGIN"
+        app:layout_constraintBottom_toBottomOf="parent" />
+</android.support.constraint.ConstraintLayout>
